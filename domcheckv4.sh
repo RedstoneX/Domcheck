@@ -4,7 +4,8 @@
 # https://gist.github.com/hotheadhacker/873519dea910b70bfc0137c527583056
 # Using Chat GPT 4o to make improvements
 # dependency: apt install whois
-# Note On Mac "open -a zed domcheckv4.sh""
+# Note On Mac to edit easily install Zed and then run this command 
+# "open -a zed domcheckv4.sh""
 
 # Check if at least one domain name is provided
 if [ "$#" -eq 0 ]; then
