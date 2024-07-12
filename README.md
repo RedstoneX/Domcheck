@@ -11,4 +11,3 @@ Using Chat GPT 4o to make improvements
 
 dependency: apt install whois
 
-Note On Mac "open -a zed domcheckv4.sh""
